@@ -1,6 +1,6 @@
 # git-search
 
-FIXME
+Search in all projects and repo inside stash, bitbucket.
 
 ## Prerequisites
 
